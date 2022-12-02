@@ -1,0 +1,47 @@
+/* 
+
+Följande önskemål finns:
+● Text och videoinnehåll skall vara centrerat
+● För och bakgrundsfärg skall ha relevans till filmen 
+    (Kolla på posters)
+● Länklistan skall vara horisontell
+● Footern skall vara 50px hög och ha annan bakgrundsfärg 
+    än resten av sidan. 
+
+    */
+
+
+body {
+    background-color: rgb(73,40,31);
+    color: rgb(207,181,144);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+li {
+    display: inline-block;
+    margin: 5px;
+    list-style: none;
+}
+
+footer {
+    height: 50px;
+    background-color: rgb(86,67,52)
+}
+
+.centered {
+    display: flex;
+    justify-content: center;
+}
+
+:any-link {
+    color: rgb(207,181,144);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: darkgoldenrod;
+}

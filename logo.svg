@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="116.04466mm"
+   height="22.602922mm"
+   viewBox="0 0 116.04466 22.602922"
+   version="1.1"
+   id="svg5"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <g
+     id="layer1"
+     transform="translate(-33.531693,-10.249915)">
+    <g
+       id="g3055">
+      <rect
+         style="fill:#ff9955;stroke:#000000;stroke-width:0.264999;stroke-linecap:round"
+         id="rect2890"
+         width="115.77966"
+         height="22.337923"
+         x="33.664192"
+         y="10.382415" />
+      <path
+         id="path2955"
+         style="fill:none;stroke:#cccccc;stroke-width:0.0523961px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 35.080029,41.353548 c 0,0 -1.832432,4.334226 -1.57303,6.571692 0.08776,0.756962 0.423342,1.442013 0.849043,2.10013 0.241329,-2.890607 0.482658,-5.781215 0.723987,-8.671822 z m -0.180997,2.167955 c -0.11007,1.318223 -1.594465,5.887115 -1.509984,8.883438 0.06582,0.567721 1.333227,-0.761334 1.580523,-1.261681 0.150484,-2.589284 -0.01555,-5.088974 -0.07054,-7.621757 z m -0.180996,2.167956 c -0.220142,2.636445 -1.356499,7.440004 -1.44694,11.195182 0.04388,0.378481 2.243113,-2.964679 2.312003,-4.62349 0.05964,-2.287962 -0.513753,-4.396733 -0.865063,-6.571692 z m -0.180997,2.167955 c -0.330212,3.954669 -1.118533,8.992893 -1.383894,13.506928 0.02194,0.189241 3.152998,-5.168026 3.043483,-7.985301 -0.03121,-1.986639 -1.011959,-3.704492 -1.659589,-5.521627 z m -0.180997,2.167956 c -0.440283,5.272891 -0.880566,10.545782 -1.320849,15.818673 0,0 4.062884,-7.371372 3.774963,-11.347111 -0.12205,-1.685317 -1.510164,-3.012252 -2.454114,-4.471562 z"
+         transform="matrix(29.722066,0,0,0.85792062,-947.42131,-24.318187)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="45.934322"
+         y="25.48411"
+         id="text2591"><tspan
+           id="tspan2589"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Bahnschrift;-inkscape-font-specification:'Bahnschrift Bold';stroke-width:0.264583"
+           x="45.934322"
+           y="25.48411">NO ROLLS BARRED</tspan></text>
+    </g>
+  </g>
+</svg>
