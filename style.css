@@ -34,11 +34,12 @@ footer {
 }
 
 /* classes */
-ul.horizontal>li {
+ul.horizontal > li {
     display: inline-block;
     margin: 5px;
     padding: 5px;
     list-style: none;
+    border-radius: 8px;
     background-color: hsl(var(--bgHColor), var(--bgSColor), calc(var(--bgLColor) + 3%));
 }
 
