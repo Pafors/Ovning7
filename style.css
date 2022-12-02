@@ -1,7 +1,21 @@
+/* Variables */
+:root {
+    --bgHColor: 13;
+    --bgSColor: 40.4%;
+    --bgLColor: 20.4%;
+    --bgColor: hsl(var(--bgHColor), var(--bgSColor), var(--bgLColor));
+
+    --fgHColor: 35;
+    --fgSColor: 39.6%;
+    --fgLColor: 68.8%;
+    --fgColor: hsl(var(--fgHColor), var(--fgSColor), var(--fgLColor));
+    --headerColor: darkgoldenrod;
+}
+
 /* Tags */
 body {
-    background-color: rgb(73, 40, 31);
-    color: rgb(207, 181, 144);
+    background-color: var(--bgColor);
+    color: var(--fgColor);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: larger;
     margin: 0px;
@@ -14,18 +28,18 @@ nav {
 
 footer {
     height: 50px;
-    background-color: rgb(86, 67, 52);
+    background-color: hsl(var(--bgHColor), var(--bgSColor), calc(var(--bgLColor) - 5%));
     margin: 0px;
     padding: 0px;
 }
 
 /* classes */
-ul.horizontal > li {
+ul.horizontal>li {
     display: inline-block;
     margin: 5px;
     padding: 5px;
     list-style: none;
-    background-color: rgb(66, 36, 28);
+    background-color: hsl(var(--bgHColor), var(--bgSColor), calc(var(--bgLColor) + 3%));
 }
 
 .centered {
@@ -45,25 +59,25 @@ ul.horizontal > li {
 
 /* Links */
 a {
-    color: rgb(207, 181, 144);
+    color: hsl(var(--fgHColor), var(--fgSColor), calc(var(--fgLColor) + 7%));
 }
 
 a:visited {
-    color: rgb(177, 164, 146);
+    color: hsl(var(--fgHColor), var(--fgSColor), calc(var(--fgLColor) - 7%));
 }
 
 a:hover {
     color: white;
 }
 
-/* header */
+/* headers */
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-    color: darkgoldenrod;
+    color: var(--headerColor);
     text-transform: uppercase;
     font-family: 'Fredoka One';
 }
