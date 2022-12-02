@@ -20,7 +20,7 @@ footer {
 }
 
 /* classes */
-ul.horizontal li {
+ul.horizontal > li {
     display: inline-block;
     margin: 5px;
     padding: 5px;
